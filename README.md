@@ -1,3 +1,3 @@
 # Snake-game
 
-https://alehnovich-vladimir.github.io/Snake-game/
+[Play](https://alehnovich-vladimir.github.io/Snake-game/)
